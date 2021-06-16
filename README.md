@@ -10,7 +10,8 @@ git remote add origin https://github.com/pwd-sumon/GitHub-Guides.git
 git push -u origin master  
 
 ## Configure your Git username/email ( First Time Only )
-git config --global user.name "username"
+git config --global user.name "username" 
+
 git config --global user.email "email"
 
 
